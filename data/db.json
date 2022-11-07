@@ -61,7 +61,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-02-25T19:14:51.299008"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552149518",
       "isbn": "9780552149518"
@@ -191,7 +199,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-13T08:53:15.280827"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747532743",
       "isbn": "9780747532743"
@@ -268,7 +284,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 5
+        "revision": 5,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747538486",
       "isbn": "9780747538486"
@@ -381,7 +405,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-04T05:12:32.666833"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552150736",
       "isbn": "9780552150736"
@@ -495,7 +527,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-09T07:26:28.007918"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747551003",
       "isbn": "9780747551003"
@@ -532,7 +572,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 4
+        "revision": 4,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747581086",
       "isbn": "9780747581086"
@@ -930,7 +978,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-05-03T09:24:47.637440"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747546290",
       "isbn": "9780747546290"
@@ -985,7 +1041,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-22T11:01:59.354289"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781904233657",
       "isbn": "9781904233657"
@@ -1051,7 +1115,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-04-29T18:20:03.385792"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747550990",
       "isbn": "9780747550990"
@@ -1110,7 +1182,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-08-09T13:08:09.871907"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552151764",
       "isbn": "9780552151764"
@@ -1175,7 +1255,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-22T14:32:32.341223"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781904233886",
       "isbn": "9781904233886"
@@ -1264,7 +1352,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T06:12:51.216699"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552151696",
       "isbn": "9780552151696"
@@ -1312,7 +1408,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-28T18:36:26.202831"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099450252",
       "isbn": "9780099450252"
@@ -1382,7 +1486,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-22T13:30:05.401559"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781904233916",
       "isbn": "9781904233916"
@@ -1479,7 +1591,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-02T07:35:52.623046"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781847245458",
       "isbn": "9781847245458"
@@ -1527,7 +1647,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-21T13:00:15.779997"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747566533",
       "isbn": "9780747566533"
@@ -1612,7 +1740,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-12-11T21:41:35.639458"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099464464",
       "isbn": "9780099464464"
@@ -1681,7 +1817,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-16T16:18:27.698223"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141017891",
       "isbn": "9780141017891"
@@ -1779,7 +1923,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-03-19T22:11:55.266561"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099429791",
       "isbn": "9780099429791"
@@ -1848,7 +2000,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-04-15T11:52:21.488246"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780593054277",
       "isbn": "9780593054277"
@@ -1904,7 +2064,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-04-20T15:33:11.993864"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552997041",
       "isbn": "9780552997041"
@@ -1961,7 +2129,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-06-04T21:21:50.929336"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781905654284",
       "isbn": "9781905654284"
@@ -2089,7 +2265,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-09T14:28:06.013556"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747546245",
       "isbn": "9780747546245"
@@ -2249,6 +2433,14 @@
           {
             "key": "/works/OL82586W"
           }
+        ],
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
         ]
       },
       "id": "9780747591061",
@@ -2315,7 +2507,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-02T08:15:54.719823"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781849163422",
       "isbn": "9781849163422"
@@ -2387,7 +2587,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-01T21:06:33.511976"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780752837505",
       "isbn": "9780752837505"
@@ -2472,7 +2680,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-15T17:51:14.783252"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780349116754",
       "isbn": "9780349116754"
@@ -2551,7 +2767,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-11-01T11:58:11.753329"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718147655",
       "isbn": "9780718147655"
@@ -2644,7 +2868,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2020-12-25T18:42:11.996776"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780006512134",
       "isbn": "9780006512134"
@@ -2719,7 +2951,15 @@
           "type": "/type/text",
           "value": "The boulevard du Cange was a broad, quiet street that marked the eastern flank of the city of Amiens."
         },
-        "revision": 9
+        "revision": 9,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099387916",
       "isbn": "9780099387916"
@@ -2761,7 +3001,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 3
+        "revision": 3,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780752877327",
       "isbn": "9780752877327"
@@ -2835,7 +3083,15 @@
           "key": "/type/edition"
         },
         "physical_dimensions": "7.4 x 5 x 1.4 inches",
-        "revision": 10
+        "revision": 10,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780755309511",
       "isbn": "9780755309511"
@@ -2893,7 +3149,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-05-07T10:25:54.699469"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781841953922",
       "isbn": "9781841953922"
@@ -2983,7 +3247,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 10
+        "revision": 10,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780091889487",
       "isbn": "9780091889487"
@@ -3085,7 +3357,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-10T06:05:08.705218"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747599876",
       "isbn": "9780747599876"
@@ -3154,7 +3434,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-17T14:29:58.121902"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780749397548",
       "isbn": "9780749397548"
@@ -3235,7 +3523,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-11-01T19:01:09.040606"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780563384304",
       "isbn": "9780563384304"
@@ -3318,7 +3614,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-06-22T10:45:13.385336"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780330507417",
       "isbn": "9780330507417"
@@ -3542,7 +3846,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-20T11:17:57.494741"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780590660549",
       "isbn": "9780590660549"
@@ -3649,7 +3961,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T11:21:01.899749"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780755331420",
       "isbn": "9780755331420"
@@ -3713,7 +4033,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 5
+        "revision": 5,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781849162746",
       "isbn": "9781849162746"
@@ -3769,7 +4097,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-22T16:30:08.345968"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780330367356",
       "isbn": "9780330367356"
@@ -3834,7 +4170,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-02-02T04:56:19.639774"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141020525",
       "isbn": "9780141020525"
@@ -3893,7 +4237,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T02:56:11.947888"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780722532935",
       "isbn": "9780722532935"
@@ -3941,7 +4293,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-04-19T18:05:18.636593"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552996006",
       "isbn": "9780552996006"
@@ -4021,7 +4381,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-04-14T14:06:16.168829"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099487821",
       "isbn": "9780099487821"
@@ -4089,7 +4457,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2020-12-07T15:09:43.912588"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141011905",
       "isbn": "9780141011905"
@@ -4227,7 +4603,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-08-16T14:53:27.249220"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718154776",
       "isbn": "9780718154776"
@@ -4286,7 +4670,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-12-09T15:12:22.152021"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099457169",
       "isbn": "9780099457169"
@@ -4382,7 +4774,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-05-30T09:15:08.116528"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780330332774",
       "isbn": "9780330332774"
@@ -4465,7 +4865,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-02-07T17:25:05.180463"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780241003008",
       "isbn": "9780241003008"
@@ -4507,7 +4915,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-23T17:49:01.463171"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747582977",
       "isbn": "9780747582977"
@@ -4583,7 +4999,15 @@
           "key": "/type/edition"
         },
         "physical_dimensions": "9.3 x 6.2 x 1.4 inches",
-        "revision": 7
+        "revision": 7,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781846051616",
       "isbn": "9781846051616"
@@ -4684,7 +5108,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-07-02T07:12:53.060015"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718147709",
       "isbn": "9780718147709"
@@ -4765,7 +5197,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T09:10:48.263313"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780755307500",
       "isbn": "9780755307500"
@@ -4832,7 +5272,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-21T05:59:19.579900"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141030142",
       "isbn": "9780141030142"
@@ -4888,7 +5336,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-02T05:51:05.456378"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780007110926",
       "isbn": "9780007110926"
@@ -4965,7 +5421,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 3
+        "revision": 3,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780330448444",
       "isbn": "9780330448444"
@@ -5038,7 +5502,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 4
+        "revision": 4,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747561071",
       "isbn": "9780747561071"
@@ -5121,7 +5593,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-06-12T06:11:26.423700"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780701181840",
       "isbn": "9780701181840"
@@ -5187,7 +5667,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 9
+        "revision": 9,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099771517",
       "isbn": "9780099771517"
@@ -5546,7 +6034,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-20T12:59:35.758826"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780590112895",
       "isbn": "9780590112895"
@@ -5603,7 +6099,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 7
+        "revision": 7,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718148621",
       "isbn": "9780718148621"
@@ -5683,7 +6187,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-12-24T15:30:03.695109"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781904994367",
       "isbn": "9781904994367"
@@ -6155,7 +6667,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-08-21T12:41:39.647601"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780140276336",
       "isbn": "9780140276336"
@@ -6230,7 +6750,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T04:53:24.600103"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780007156108",
       "isbn": "9780007156108"
@@ -6276,7 +6804,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780593059258",
       "isbn": "9780593059258"
@@ -6342,7 +6878,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-23T04:49:46.078754"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780752893686",
       "isbn": "9780752893686"
@@ -6423,7 +6967,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-16T09:50:31.765773"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780007207329",
       "isbn": "9780007207329"
@@ -6494,7 +7046,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552998482",
       "isbn": "9780552998482"
@@ -6564,7 +7124,15 @@
           "key": "/type/edition"
         },
         "physical_dimensions": "9.7 x 7.6 x 1.5 inches",
-        "revision": 7
+        "revision": 7,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718144395",
       "isbn": "9780718144395"
@@ -6635,7 +7203,15 @@
           "type": "/type/text",
           "value": "My father and mother should have stayed in New York where they met and married and where I was born."
         },
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780006498407",
       "isbn": "9780006498407"
@@ -6719,7 +7295,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 7
+        "revision": 7,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747563204",
       "isbn": "9780747563204"
@@ -6780,7 +7364,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-08-14T09:04:28.763380"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781847670946",
       "isbn": "9781847670946"
@@ -6880,7 +7472,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2020-12-16T20:59:35.477927"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780007232741",
       "isbn": "9780007232741"
@@ -6978,7 +7578,15 @@
           "key": "/type/edition"
         },
         "physical_dimensions": "17.8 x 11 x 2.2 centimeters",
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099419785",
       "isbn": "9780099419785"
@@ -7096,7 +7704,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-08-27T19:31:36.476940"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780747581109",
       "isbn": "9780747581109"
@@ -7169,7 +7785,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-11-02T04:53:05.813422"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099406136",
       "isbn": "9780099406136"
@@ -7245,7 +7869,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-09T22:48:06.169147"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552149525",
       "isbn": "9780552149525"
@@ -7336,7 +7968,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-16T10:48:39.754539"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780140237504",
       "isbn": "9780140237504"
@@ -7400,7 +8040,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780593050545",
       "isbn": "9780593050545"
@@ -7469,7 +8117,15 @@
           "key": "/type/edition"
         },
         "physical_dimensions": "10 x 7.9 x 1.3 inches",
-        "revision": 7
+        "revision": 7,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780718144845",
       "isbn": "9780718144845"
@@ -7520,7 +8176,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-09T15:06:50.039672"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552771153",
       "isbn": "9780552771153"
@@ -7621,7 +8285,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-10-04T13:26:45.099531"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141019376",
       "isbn": "9780141019376"
@@ -7688,7 +8360,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-08-21T02:50:25.610437"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552772747",
       "isbn": "9780552772747"
@@ -7775,7 +8455,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-07-21T17:43:48.112035"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552773898",
       "isbn": "9780552773898"
@@ -7846,7 +8534,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 10
+        "revision": 10,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780141022925",
       "isbn": "9780141022925"
@@ -7921,7 +8617,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-09-16T08:00:24.627107"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780316731317",
       "isbn": "9780316731317"
@@ -7969,7 +8673,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-09-20T11:46:13.455230"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780439993586",
       "isbn": "9780439993586"
@@ -8029,7 +8741,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 3
+        "revision": 3,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552771108",
       "isbn": "9780552771108"
@@ -8113,7 +8833,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2022-04-17T19:39:05.642561"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780552997034",
       "isbn": "9780552997034"
@@ -8168,7 +8896,15 @@
         "type": {
           "key": "/type/edition"
         },
-        "revision": 6
+        "revision": 6,
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9780099506928",
       "isbn": "9780099506928"
@@ -8233,7 +8969,15 @@
         "last_modified": {
           "type": "/type/datetime",
           "value": "2021-03-26T14:50:09.247057"
-        }
+        },
+        "table_of_contents": [
+          {
+            "level": 0,
+            "label": "",
+            "title": "Cover",
+            "pagenum": "1"
+          }
+        ]
       },
       "id": "9781846053443",
       "isbn": "9781846053443"
